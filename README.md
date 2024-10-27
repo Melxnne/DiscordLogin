@@ -4,6 +4,10 @@ ALTV Discord Login UI Design  Ein einfaches und anpassbares Discord-Login-UI-Des
 
 
 
-https://github.com/user-attachments/assets/05282c50-af72-4aff-9c07-f227f8fca731
 
+
+
+
+
+https://github.com/user-attachments/assets/e9063bb9-d6a5-4719-bb30-f4f2063f2473
 
